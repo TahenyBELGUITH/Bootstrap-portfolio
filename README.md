@@ -2,18 +2,12 @@
 
 > This is my portfolio using BootStrap
 
-<p align="center">
-  <img src="images/accessibility.PNG/">
-</p>
 
 ## Built with
 
 - HTML
 - CSS
 
-## Live demo
-
-[My portfolio](https://tahenybelguith.github.io/my-identity/) 
 
 ## Getting Started
 
